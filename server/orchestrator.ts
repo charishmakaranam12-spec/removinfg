@@ -3,6 +3,7 @@ import {
   MissingInfoReport,
   PresentField,
   MissingIssue,
+  IssueStatus,
   Contradiction,
   AgentStepLog,
 } from '../src/types/agent';
