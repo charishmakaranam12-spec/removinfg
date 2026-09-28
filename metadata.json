@@ -1,0 +1,6 @@
+{
+  "name": "AI Missing Information Detective",
+  "description": "Multi-agent AI system that audits forms, datasets, and applications to detect missing, uncertain, or inconsistent information with risk-prioritized follow-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
